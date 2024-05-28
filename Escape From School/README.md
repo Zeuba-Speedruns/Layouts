@@ -14,10 +14,10 @@
   </tr>
   <tr>
     <td>
-      <img src="Escape From School/previews/layout_detailed_preview.png" alt="Detailed"></img>
+      <img src="previews/layout_detailed_preview.png" alt="Detailed"></img>
     </td>
     <td>
-      <img src="Escape From School/previews/layout_minimalist_preview.png" alt="Minimalist"></img>
+      <img src="previews/layout_minimalist_preview.png" alt="Minimalist"></img>
     </td>
   </tr>
 </table>
